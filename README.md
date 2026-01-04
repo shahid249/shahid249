@@ -1,5 +1,6 @@
 # 💫 About Me:
 Full Statck Developer & Programmer.
+Currently working on private projects.
 
 
 ## 🌐 Socials:
